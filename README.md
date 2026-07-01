@@ -1,217 +1,299 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowrirajan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SQL&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,8A2BE2&height=250&section=header&text=Sowrirajan%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SQL&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+%7C+FastAPI+%7C+SQL;AI-Powered+Application+Builder;Turning+Ideas+Into+Scalable+APIs&font=Fira+Code&center=true&width=650&height=50&color=A855F7&vCenter=true&size=24&pause=1500" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Python+%2B+FastAPI;Building+AI-Powered+Applications+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Scalable+REST+APIs;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
+[![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-6A0DAD?style=flat-square)](#)
+[![Location](https://img.shields.io/badge/📍-Chennai%2C%20India-4B0082?style=flat-square)](#)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowrirajan-m)
+[![Email](https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajansouri124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sowri347)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sowri347&color=8a2be2&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/sowri347?style=flat-square&color=6A0DAD&label=Followers)
+![Stars](https://img.shields.io/github/stars/sowri347?style=flat-square&color=4B0082&label=Stars)
 
 </div>
 
-<br/>
+---
 
-## 👋 About Me
+### 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+Recent **Information Technology** graduate and backend-focused software engineer with hands-on experience across **Python, FastAPI, SQL, PostgreSQL, and JavaScript**. I build backend systems and AI-powered applications — from REST APIs with JWT auth and RBAC to Retrieval-Augmented-Generation pipelines that let users chat with their own documents.
 
-```python
-class Sowrirajan:
-    def __init__(self):
-        self.name = "Sowrirajan M"
-        self.location = "Chennai, India"
-        self.degree = "B.Tech, Information Technology"
-        self.role = "Backend Developer"
+- 🔭 Backend engineering with **FastAPI**, **PostgreSQL**, and clean, scalable API design
+- 🤖 Applied AI/ML: RAG pipelines, LLM-powered features, embeddings, semantic search
+- 🛠️ Full-stack capable — pairing Python backends with **React.js / TypeScript** frontends
+- 🧩 Product mindset — I care about reliability, validation, and real-world UX, not just "it runs"
+- 🌱 Currently deepening my skills in distributed backend architecture and production-grade AI systems
 
-        self.stack = [
-            "Python", "FastAPI", "PostgreSQL",
-            "SQL", "JavaScript", "Docker", "React.js"
-        ]
+**🎯 Open To:** Entry-level Software Engineer · Backend Developer · Python/FastAPI Developer roles
 
-        self.currently_learning = [
-            "Advanced LangChain & RAG architectures",
-            "System Design at scale",
-            "Kubernetes & container orchestration"
-        ]
+---
 
-        self.fun_fact = "I enjoy turning research papers into working prototypes"
-
-    def motto(self):
-        return "Ship it, then scale it."
-
-
-me = Sowrirajan()
-print(me.motto())
-```
-
-<br clear="right"/>
-
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=databricks&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts)
 
-**Frameworks & Libraries**
+**Frontend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
-**Cloud & DevOps**
+**Backend & Databases**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Nodejs](https://skillicons.dev/icons?i=nodejs) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 
-**Databases**
+**Cloud, DevOps & Tooling**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square&logo=databricks&logoColor=white)
+![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![AWS](https://skillicons.dev/icons?i=aws)
 
-**Tools**
+[![OCI](https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-6A0DAD?style=flat-square&logo=oracle&logoColor=white)](#)
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+---
 
-<br/>
+### 🤖 AI / ML Expertise
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sowri347&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowri347&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<div align="center">
-
-<a href="https://leetcode.com/u/sowri_347/">
-  <img src="https://leetcard.jacoblin.cool/sowri_347?theme=dark&font=Fira%20Code&ext=heatmap" />
-</a>
-
-</div>
-
-<br/>
-
-## 💼 Work Experience
-
-<details>
-<summary><b>Application Developer — HackGeniX Tech Private Limited | Feb 2024 – Mar 2024 | Chennai</b></summary>
-<br/>
-
-> `Figma` `React.js` `REST APIs` `Validation Logic`
-
-- Converted Figma designs into responsive, production-ready web applications with high design accuracy.
-- Developed a CRUD-based appointment scheduling system using real-time updates and validation logic.
-- Improved scheduling reliability by implementing conflict detection and data validation.
-
-</details>
-
-<details>
-<summary><b>Software Development Engineer Intern — HackGeniX Tech Private Limited | Feb 2023 – Mar 2023 | Chennai</b></summary>
-<br/>
-
-> `Python` `FastAPI` `Computer Vision` `Logging`
-
-- Developed an AI-powered application that generated test cases from UI screenshots, reducing manual QA effort by **60%**.
-- Built scalable backend APIs with Python, FastAPI, logging, and error handling.
-- Improved test coverage by automating UI element detection and edge-case identification.
-
-</details>
-
-<details>
-<summary><b>Web Developer Intern — Skill Vertex | Jan 2023 – Mar 2023 | Chennai</b></summary>
-<br/>
-
-> `Python` `REST APIs` `NLP` `Keyword Analysis`
-
-- Built an AI-powered resume screening platform to automate candidate evaluation.
-- Developed backend APIs for resume processing and real-time candidate analysis.
-- Enhanced candidate-job matching using contextual keyword analysis.
-
-</details>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Stack | Highlights |
+| Domain | Proficiency | Details |
 |---|---|---|
-| **[Apex Sales Enterprise – AI Predictive CRM](https://github.com/sowri347/apex-sales-enterprise)** | Python, FastAPI, PostgreSQL, React.js, TypeScript, Docker | AI-powered CRM for leads, customers, support tickets & sales pipelines · JWT auth + RBAC · AI lead scoring, sentiment analysis & LLM-generated sales insights |
-| **[RAG AI Knowledge Assistant](https://github.com/sowri347/rag-ai-knowledge-assistant)** | Python, FastAPI, ChromaDB, OpenAI API, PostgreSQL, React.js | Chat with PDFs & enterprise docs · document ingestion, chunking, embeddings & semantic search via ChromaDB + LangChain · context-aware responses with source citations |
-| **[AI Code Review Assistant](https://github.com/sowri347/ai-code-review-assistant)** | Python, FastAPI, OpenAI API, GitHub API, PostgreSQL, Docker | Analyzes GitHub PRs for improvement suggestions · automated bug detection, security scanning & code quality scoring · Docker-based, CI/CD-ready deployment |
+| **RAG Pipelines** | Applied | Document ingestion, text chunking, embedding generation, semantic search with ChromaDB + LangChain |
+| **LLM Integration** | Applied | OpenAI API integration for context-aware, source-cited responses |
+| **AI-Powered Automation** | Applied | Test-case generation from UI screenshots; resume screening & candidate-job matching |
+| **Predictive & Scoring Systems** | Working Knowledge | Lead scoring, sentiment analysis, LLM-generated business insights |
+| **Deep Learning Fundamentals** | Certified | Core concepts of neural networks and model training |
+| **Generative AI** | Certified | Applied fundamentals of generative AI systems |
 
-</div>
+---
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>💼 Apex Sales Enterprise — AI Predictive CRM Platform</b></summary>
+<br/>
+
+AI-powered CRM platform for managing leads, customers, support tickets, and sales pipelines, with AI-driven lead scoring, customer sentiment analysis, and LLM-generated sales insights.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, PostgreSQL, React.js, TypeScript, Docker |
+| **Scale** | Multi-module platform: leads, customers, tickets, pipelines |
+| **Performance** | Scalable REST API layer designed for concurrent workloads |
+| **Security** | JWT authentication with Role-Based Access Control (RBAC) |
+| **Impact** | AI-assisted lead scoring and sentiment insights for sales teams |
+| **Repository** | [github.com/sowri347](https://github.com/sowri347) |
+
+</details>
+
+<details>
+<summary><b>📚 RAG AI Knowledge Assistant</b></summary>
+<br/>
+
+A Retrieval-Augmented-Generation application that lets users chat with PDFs and enterprise documents, returning context-aware answers with source citations.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, ChromaDB, OpenAI API, PostgreSQL, React.js |
+| **Scale** | Full document ingestion → chunking → embedding → retrieval pipeline |
+| **Performance** | Semantic search via ChromaDB for fast, relevant retrieval |
+| **Security** | Backend-managed API access, structured FastAPI services |
+| **Impact** | Context-aware answers with traceable source citations |
+| **Repository** | [github.com/sowri347](https://github.com/sowri347) |
+
+</details>
+
+<details>
+<summary><b>🔍 AI Code Review Assistant</b></summary>
+<br/>
+
+An AI-powered platform that analyzes GitHub pull requests and automatically surfaces improvement suggestions, bugs, and security issues.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Python, FastAPI, OpenAI API, GitHub API, PostgreSQL, Docker |
+| **Scale** | Automated repository-level PR analysis |
+| **Performance** | CI/CD-ready, Docker-based deployment architecture |
+| **Security** | Automated security scanning as part of the review flow |
+| **Impact** | Bug detection, code quality scoring, and review automation |
+| **Repository** | [github.com/sowri347](https://github.com/sowri347) |
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Application Developer**
+*HackGeniX Tech Private Limited, Chennai — Feb 2024 – Mar 2024*
+
+Converted Figma designs into responsive, production-ready web applications and built a CRUD-based appointment scheduling system with real-time updates, conflict detection, and validation logic.
+
+- Delivered pixel-accurate, production-ready UI from Figma designs
+- Built a real-time appointment scheduling system with conflict detection
+- Improved scheduling reliability through robust data validation
+
+`Figma-to-Code` `CRUD` `Real-Time Systems` `Validation Logic`
 
 <br/>
 
-## 🏅 Achievements & Certifications
+**Software Development Engineer Intern**
+*HackGeniX Tech Private Limited, Chennai — Feb 2023 – Mar 2023*
+
+Built an AI-powered application that generated test cases directly from UI screenshots, reducing manual QA effort by 60%, backed by scalable FastAPI services.
+
+- Reduced manual QA effort by **60%** via AI-generated test cases
+- Built scalable backend APIs with structured logging and error handling
+- Automated UI element detection and edge-case identification
+
+`Python` `FastAPI` `AI/ML` `QA Automation`
+
+<br/>
+
+**Web Developer Intern**
+*Skill Vertex, Chennai — Jan 2023 – Mar 2023*
+
+Built an AI-powered resume screening platform to automate candidate evaluation, with backend APIs for resume processing and real-time analysis.
+
+- Automated candidate evaluation via an AI resume-screening platform
+- Built backend APIs for resume processing and real-time analysis
+- Improved candidate-job matching using contextual keyword analysis
+
+`Python` `API Development` `AI/ML` `NLP Concepts`
+
+---
+
+### 🏆 Achievements
 
 <div align="center">
 
-| | Achievement | Details |
-|---|---|---|
-| 🧠 | Deep Learning Fundamentals | Certified |
-| 🐳 | Docker Essentials | Certified |
-| 🤖 | Generative AI Essentials | Certified |
-| ☁️ | OCI 2023 Foundations Associate | Oracle Cloud Infrastructure Certification |
+| Recognition | Details |
+|---|---|
+| **60% QA Effort Reduction** | Achieved via an AI-powered UI-screenshot-to-test-case generator |
+| **OCI 2023 Foundations Associate** | Oracle Cloud Infrastructure certification |
+| **Multi-Stack AI Product Delivery** | Independently built 3 full-stack AI-powered platforms (CRM, RAG, Code Review) |
 
 </div>
 
-<br/>
+---
 
-## 🎓 Education
+### 📜 Certifications
+
+**Oracle**
+
+[![OCI Foundations Associate](https://img.shields.io/badge/OCI%202023-Foundations%20Associate-6A0DAD?style=for-the-badge&logo=oracle&logoColor=white)](#)
+
+**General / AI**
+
+[![Deep Learning Fundamentals](https://img.shields.io/badge/Deep%20Learning-Fundamentals-4B0082?style=for-the-badge)](#)
+[![Generative AI Essentials](https://img.shields.io/badge/Generative%20AI-Essentials-8A2BE2?style=for-the-badge)](#)
+[![Docker Essentials](https://img.shields.io/badge/Docker-Essentials-6A0DAD?style=for-the-badge&logo=docker&logoColor=white)](#)
+
+---
+
+### 💻 Coding Profiles
 
 <div align="center">
 
-| Degree | Institution | Year | Score |
-|---|---|---|---|
-| B.Tech, Information Technology | Sathyabama Institute of Science and Technology, Chennai | 2021 – 2025 | CGPA: 6.7/10 |
+[![LeetCode](https://img.shields.io/badge/LeetCode-sowri__347-4B0082?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sowri_347/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--gfg--username-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-your--hackerrank--username-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
+[![CodeChef](https://img.shields.io/badge/CodeChef-your--codechef--username-4B0082?style=for-the-badge&logo=codechef&logoColor=white)](#)
+
+*Replace the placeholder usernames above with your actual profile handles.*
 
 </div>
 
-<br/>
+---
 
-## 🌱 Currently Learning
+### 📊 GitHub Analytics
 
-```text
-🧱 Generative AI → Advanced RAG pipelines, agentic workflows
-🧱 System Design → Scalability, caching, distributed systems
-🧱 DevOps → Kubernetes, container orchestration
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sowri347&show_icons=true&theme=radical&title_color=A855F7&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117&border_color=6A0DAD" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=sowri347&theme=radical&stroke=8A2BE2&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&border=6A0DAD" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowri347&layout=compact&theme=radical&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&border_color=6A0DAD" width="49%"/>
+
+</div>
+
+---
+
+### 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sowri347&theme=radical&no-frame=true&margin-w=10&column=7" width="100%"/>
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowri347&theme=redical&color=A855F7&line=8A2BE2&point=ffffff&area=true&hide_border=true&bg_color=0d1117" width="100%"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sowri347/sowri347/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to activate.</sub>
+
+</div>
+
+---
+
+### 🎯 Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Distributed backend architecture
+    - Production-grade LLM application design
+  building:
+    - AI-powered developer & business tools
+    - Scalable FastAPI + PostgreSQL services
+  exploring:
+    - Advanced RAG and agentic workflows
+    - Cloud-native deployment (OCI / AWS)
+  open_to:
+    - Entry-level Software Engineer roles
+    - Backend Developer / Python-FastAPI roles
 ```
 
-<br/>
+---
 
-## 📫 Connect With Me
+### 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowrirajan-m)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajansouri124@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sowri347)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sowri_347/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sowri347&color=70a5fd&style=flat-square)
+[![Gmail](https://img.shields.io/badge/rajansouri124@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajansouri124@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/sowrirajan--m-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowrirajan-m)
+[![GitHub](https://img.shields.io/badge/sowri347-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sowri347)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+
+*"Good backends are invisible — they just work, at scale, every time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,8A2BE2&height=120&section=footer" width="100%"/>
+
+</div>
