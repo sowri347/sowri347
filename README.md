@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowrirajan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SQL&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="./assets/profile.png" width="160" alt="Sowrirajan M"/>
-
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Python+%2B+FastAPI;Building+AI-Powered+Applications+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Scalable+REST+APIs;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
@@ -92,17 +90,6 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/sowri347">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sowri347&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-<a href="https://github.com/sowri347">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowri347&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
-
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=sowri347&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 
 </div>
@@ -118,16 +105,6 @@ print(me.motto())
 <a href="https://leetcode.com/u/sowri_347/">
   <img src="https://leetcard.jacoblin.cool/sowri_347?theme=dark&font=Fira%20Code&ext=heatmap" />
 </a>
-
-</div>
-
-<br/>
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sowri347&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 
 </div>
 
