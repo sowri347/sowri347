@@ -113,6 +113,14 @@ print(me.motto())
 
 </div>
 
+<div align="center">
+
+<a href="https://leetcode.com/u/sowri_347/">
+  <img src="https://leetcard.jacoblin.cool/sowri_347?theme=dark&font=Fira%20Code&ext=heatmap" />
+</a>
+
+</div>
+
 <br/>
 
 ## 🏆 Trophy Wall
@@ -171,9 +179,9 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |---|---|---|
-| **[Apex Sales Enterprise – AI Predictive CRM](https://github.com/sowri347)** | Python, FastAPI, PostgreSQL, React.js, TypeScript, Docker | AI-powered CRM for leads, customers, support tickets & sales pipelines · JWT auth + RBAC · AI lead scoring, sentiment analysis & LLM-generated sales insights |
-| **[RAG AI Knowledge Assistant](https://github.com/sowri347)** | Python, FastAPI, ChromaDB, OpenAI API, PostgreSQL, React.js | Chat with PDFs & enterprise docs · document ingestion, chunking, embeddings & semantic search via ChromaDB + LangChain · context-aware responses with source citations |
-| **[AI Code Review Assistant](https://github.com/sowri347)** | Python, FastAPI, OpenAI API, GitHub API, PostgreSQL, Docker | Analyzes GitHub PRs for improvement suggestions · automated bug detection, security scanning & code quality scoring · Docker-based, CI/CD-ready deployment |
+| **[Apex Sales Enterprise – AI Predictive CRM](https://github.com/sowri347/apex-sales-enterprise)** | Python, FastAPI, PostgreSQL, React.js, TypeScript, Docker | AI-powered CRM for leads, customers, support tickets & sales pipelines · JWT auth + RBAC · AI lead scoring, sentiment analysis & LLM-generated sales insights |
+| **[RAG AI Knowledge Assistant](https://github.com/sowri347/rag-ai-knowledge-assistant)** | Python, FastAPI, ChromaDB, OpenAI API, PostgreSQL, React.js | Chat with PDFs & enterprise docs · document ingestion, chunking, embeddings & semantic search via ChromaDB + LangChain · context-aware responses with source citations |
+| **[AI Code Review Assistant](https://github.com/sowri347/ai-code-review-assistant)** | Python, FastAPI, OpenAI API, GitHub API, PostgreSQL, Docker | Analyzes GitHub PRs for improvement suggestions · automated bug detection, security scanning & code quality scoring · Docker-based, CI/CD-ready deployment |
 
 </div>
 
@@ -223,6 +231,7 @@ print(me.motto())
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowrirajan-m)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rajansouri124@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sowri347)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/sowri_347/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sowri347&color=70a5fd&style=flat-square)
 
