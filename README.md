@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sowrirajan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SQL&descAlignY=62&descSize=16" width="100%"/>
 
+<img src="./assets/profile.png" width="160" alt="Sowrirajan M"/>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Backend+Developer+%7C+Python+%2B+FastAPI;Building+AI-Powered+Applications+%F0%9F%A4%96;RAG+%7C+LLMs+%7C+Scalable+REST+APIs;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
 
 </div>
