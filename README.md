@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,8A2BE2&height=250&section=header&text=Sowrirajan%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SQL&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,4B0082,8A2BE2&height=250&section=header&text=Sowrirajan%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Associate%20Software%20Engineer%20%7C%20Python%20%7C%20FastAPI%20%7C%20SQL&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;Python+%7C+FastAPI+%7C+SQL;AI-Powered+Application+Builder;Turning+Ideas+Into+Scalable+APIs&font=Fira+Code&center=true&width=650&height=50&color=A855F7&vCenter=true&size=24&pause=1500" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Associate+Software+Developer;Python+%7C+FastAPI+%7C+SQL;AI-Powered+Application+Builder;Turning+Ideas+Into+Scalable+APIs&font=Fira+Code&center=true&width=650&height=50&color=A855F7&vCenter=true&size=24&pause=1500" />
 
 <br/>
 
@@ -225,33 +225,11 @@ Built an AI-powered resume screening platform to automate candidate evaluation, 
 
 ---
 
-### 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sowri347&theme=radical&no-frame=true&margin-w=10&column=7" width="100%"/>
-
-</div>
-
----
-
 ### 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sowri347&theme=redical&color=A855F7&line=8A2BE2&point=ffffff&area=true&hide_border=true&bg_color=0d1117" width="100%"/>
-
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sowri347/sowri347/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — add the workflow to your profile repo to activate.</sub>
 
 </div>
 
