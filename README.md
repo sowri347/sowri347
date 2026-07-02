@@ -262,7 +262,7 @@ current_focus:
 [![Gmail](https://img.shields.io/badge/rajansouri124@gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajansouri124@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/sowrirajan--m-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sowrirajan-m)
 [![GitHub](https://img.shields.io/badge/sowri347-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sowri347)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=vercel&logoColor=white)](https://sowrirajan-portfolio.vercel.app/)
 
 </div>
 
