@@ -202,24 +202,11 @@ Built an AI-powered resume screening platform to automate candidate evaluation, 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sowri__347-4B0082?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sowri_347/)
-*Replace the placeholder usernames above with your actual profile handles.*
 
 </div>
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sowri347&show_icons=true&theme=radical&title_color=A855F7&icon_color=8A2BE2&text_color=c9d1d9&bg_color=0d1117&border_color=6A0DAD" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=sowri347&theme=radical&stroke=8A2BE2&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117&border=6A0DAD" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowri347&layout=compact&theme=radical&title_color=A855F7&text_color=c9d1d9&bg_color=0d1117&border_color=6A0DAD" width="49%"/>
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
