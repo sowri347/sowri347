@@ -202,10 +202,6 @@ Built an AI-powered resume screening platform to automate candidate evaluation, 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sowri__347-4B0082?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sowri_347/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-your--gfg--username-6A0DAD?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-your--hackerrank--username-8A2BE2?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-your--codechef--username-4B0082?style=for-the-badge&logo=codechef&logoColor=white)](#)
-
 *Replace the placeholder usernames above with your actual profile handles.*
 
 </div>
